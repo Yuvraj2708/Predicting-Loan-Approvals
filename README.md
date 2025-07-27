@@ -54,6 +54,7 @@ Loan approval prediction models help financial institutions evaluate the creditw
 
 ## 📁 Project Structure
 
+```plaintext
 loan-approval-prediction/
 ├── data/
 │   └── loan_prediction.csv
@@ -61,5 +62,4 @@ loan-approval-prediction/
 │   ├── EDA.ipynb               # Exploratory Data Analysis
 │   ├── preprocessing.ipynb     # Data Cleaning & Transformation
 │   └── model.ipynb             # Model Training & Evaluation
-
 
